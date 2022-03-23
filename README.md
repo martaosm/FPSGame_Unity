@@ -1,6 +1,6 @@
 # FPSGame_Unity
-FPS Game made in Unity. \n
-Player's objective is to eliminate all of the enemies.\n
+FPS Game made in Unity.
+Player's objective is to eliminate all of the enemies.
 A,W,S,D = movement
 Space = jump
 Left mouse click = shoot
