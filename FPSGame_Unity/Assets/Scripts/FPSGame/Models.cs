@@ -23,7 +23,11 @@ public static class Models
         public bool ViewXInverted;
         public bool ViewYInverted;
 
-        [Header("Movement")] 
+        [Header("Movement-Running")] 
+        public float RunningForwardSpeed;
+        public float RunningStrafeSpeed;
+        
+        [Header("Movement-Walking")] 
         public float WalkingForwardSpeed;
         public float WalkingStrafeSpeed;
         public float WalkingBackwardSpeed;
@@ -32,6 +36,13 @@ public static class Models
         public float jumpingFalloff;
 
 
+    }
+
+    [Serializable]
+    public class CharacterStance
+    {
+        public float CameraHeight;
+        public CapsuleCollider stanceCollider;
     }
 
     #endregion

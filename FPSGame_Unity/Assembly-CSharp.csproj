@@ -67,6 +67,9 @@
      <Compile Include="Assets\Scripts\SampleScene\SpiderEnemy.cs" />
      <Compile Include="Assets\Inputs\DefaultInput.cs" />
      <Compile Include="Assets\Scripts\FPSGame\Player\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\FPSGame\PointsCollector.cs" />
+     <Compile Include="Assets\Scripts\FPSGame\WaypointFollower.cs" />
+     <None Include="Assets\Press_Start_2P\OFL.txt" />
      <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity 2020.3.30f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
