@@ -9,5 +9,5 @@ Left mouse click = shoot
 To quit game player needs to shoot a blue cube.
 
 Game still under development.
-![image](https://user-images.githubusercontent.com/56367868/162810163-f8110ea0-77b6-45ae-bbbf-2266c7bbd76a.png)
 
+![Zrzut ekranu 2022-04-11 205749](https://user-images.githubusercontent.com/56367868/162810320-c37a4703-2924-4f7f-a440-e999aca4adb7.jpg)
